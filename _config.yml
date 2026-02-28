@@ -365,4 +365,4 @@ compress_html:
       path: ""
     values:
       header:
-        image: /images/banner.jpg
+        image: /images/banner.png
